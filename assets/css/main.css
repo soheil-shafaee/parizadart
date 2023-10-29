@@ -36,8 +36,8 @@
     01. START GENERAL STYLE
 ------------------------------*/
 
-@import url("farsi-fonts-styles/primary-iran-yekan.css");
-@import url("farsi-fonts-styles/secondary-pinar.css");
+@import url("farsi-fonts-styles/primary-sahel.css");
+@import url("farsi-fonts-styles/secondary-sahel.css");
 
 body {
     font-family: "primary-font", "segoe ui", "tahoma";
